@@ -1,5 +1,7 @@
 # Audience Sentiment Analysis for Media
 
+## Made By - Vijay Kant (23FE10CDS00251) 
+
 A machine learning-powered web application that analyzes sentiment in social media posts, comments, and reviews to understand audience reactions to media content.
 
 ## Features
